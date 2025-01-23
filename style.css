@@ -1,0 +1,156 @@
+header {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+h2 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+main {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: black;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+footer {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 20px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+.content {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 10px;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition: color 0.3s ease;
+
+}
+
+.link:hover {
+    color: white;
+    text-decoration: underline;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+button {
+    background-color: turquoise;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+
+}
+
+button:hover {
+    background-color: turquoise;
+    color: white;
+    /* Adicionar mais estilos conforme necessário */
+}
+
+img {
+    /* Adicionar estilos para formatar a imagem */
+    max-width: 100%;
+    height: auto;
+
+}
